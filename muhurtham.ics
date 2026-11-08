@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Kirthik Nikkila Wedding//Love Express//EN
+PRODID:-//Nikkila Kirthik Wedding//Love Express//EN
 BEGIN:VEVENT
 UID:kirthik-nikkila-muhurtham-20261116@wedding
 DTSTAMP:20261031T000000Z
 DTSTART:20261116T001500Z
 DTEND:20261116T013000Z
-SUMMARY:Kirthik & Nikkila - Wedding Muhurtham
+SUMMARY:Nikkila & Kirthik - Wedding Muhurtham
 LOCATION:Swarna Mahal\, Chengappalli\, Tiruppur\, Tamil Nadu
-DESCRIPTION:Join Kirthik and Nikkila for their traditional Tamil wedding ceremony!
+DESCRIPTION:Join Nikkila and Kirthik for their traditional Tamil wedding ceremony!
 END:VEVENT
 END:VCALENDAR
