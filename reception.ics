@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kirthik Nikkila Wedding//Love Express//EN
+BEGIN:VEVENT
+UID:kirthik-nikkila-reception-20261115@wedding
+DTSTAMP:20261031T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T153000Z
+SUMMARY:Kirthik & Nikkila - Wedding Reception
+LOCATION:Swarna Mahal\, Chengappalli\, Tiruppur\, Tamil Nadu
+DESCRIPTION:Come celebrate Kirthik and Nikkila's wedding reception!
+END:VEVENT
+END:VCALENDAR
